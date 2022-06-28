@@ -6,7 +6,7 @@
   "tasks": {
     "test": {
       "name": "test",
-      "command": "test"
+      "command": "echo 'test'"
     }
   }
 }
